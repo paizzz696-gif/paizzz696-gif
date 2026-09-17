@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Information Systems student at Universitas Andalas with a deep passion for technology. I specialize in creating intuitive user interfaces and robust full-stack applications, focusing on delivering premium digital experiences.
+I am an Information Systems student at Andalas University with a deep passion for technology. I specialize in creating intuitive user interfaces and robust full-stack applications, focusing on delivering premium digital experiences.
 
 
 ## 🌐 Socials:
